@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{74339AD9-739F-4544-8D1E-FAB472F78174}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GetAppVersions/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="GetAppVersions/Models/AppVersionInfo.cs" Line="12" Column="17" />
+      <File FileName="GetAppVersions/Views/Home/Index.cshtml" Line="17" Column="17" />
+      <File FileName="GetAppVersions/Web.config" Line="1" Column="1" />
+      <File FileName="GetAppVersions/Views/Web.config" Line="1" Column="1" />
+      <File FileName="GetAppVersions/Controllers/HomeController.cs" Line="13" Column="15" />
+      <File FileName="GetAppVersions/Views/Home/Add.cshtml" Line="1" Column="1" />
+      <File FileName="GetAppVersions/App_Start/RouteConfig.cs" Line="28" Column="23" />
+      <File FileName="GetAppVersions/Views/Home/StoreInfo.cshtml" Line="30" Column="22" />
+      <File FileName="GetAppVersions/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GetAppVersions" expanded="True">
+            <Node name="GetAppVersions" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GetAppVersions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/Controllers/HomeController.cs" relfile="GetAppVersions/Controllers/HomeController.cs" line="25" column="1" />
+      <Breakpoint file="/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/Controllers/HomeController.cs" relfile="GetAppVersions/Controllers/HomeController.cs" line="57" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
