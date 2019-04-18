@@ -1,0 +1,37 @@
+﻿@model List<GetAppVersions.Models.AppVersionInfo>
+@{
+    ViewBag.Title = "StoreInfo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>StoreInfo</h2>
+<div style='width:100%;'>
+    <div style="width:50%;float:right;">
+        <input type="button" value='添加' style='padding:6px 12px;'/>
+    </div>
+
+<table style="width:90%;text-align:center;margin:0 auto;" border="5">
+    <tr style='background-color:#636363;color:#FFFFFF'>
+        <td>ID</td>
+        <td>商店</td>
+        <td>URL</td>
+        <td>版本字段匹配正则</td>
+        <td>操作</td>
+    </tr>
+    @{int i=0;}   
+    @foreach(var m in Model)
+    {
+       string strColor = i%2 != 0?"#B2DFEE":"";
+      <tr style="background-color:@strColor">
+        <td>@m.Id</td>
+        <td>@m.StoreName</td>
+        <td><a href='@m.Url' target="_blank">@m.Url</a></td>
+        <td>@m.Pattern</td>
+        <td><a href=''>编辑</a></td>
+      </tr>
+      i++;
+    }
+</table>
+</div>
+
+ 

@@ -1,0 +1,36 @@
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/GetAppVersions.dll
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/Microsoft.Web.Infrastructure.dll
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/System.Web.Helpers.dll
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/System.Web.Mvc.dll
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/System.Web.Razor.dll
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/System.Web.WebPages.Deployment.dll
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/System.Web.WebPages.dll
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/System.Web.WebPages.Razor.dll
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/Tiexue.UI.Common.dll
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/System.Web.Razor.xml
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/System.Web.Helpers.xml
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/System.Web.WebPages.Deployment.xml
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/System.Web.WebPages.xml
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/System.Web.WebPages.Razor.xml
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/bin/System.Web.Mvc.xml
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/obj/Release/GetAppVersions.csproj.CoreCompileInputs.cache
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/obj/Release/GetAppVersions.dll
+/Users/X-Man/Projects/GetAppVersions/GetAppVersions/obj/Release/GetAppVersions.csprojResolveAssemblyReference.cache
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/GetAppVersions.dll
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/Microsoft.Web.Infrastructure.dll
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/System.Web.Helpers.dll
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/System.Web.Mvc.dll
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/System.Web.Razor.dll
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/System.Web.WebPages.Deployment.dll
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/System.Web.WebPages.dll
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/System.Web.WebPages.Razor.dll
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/System.Web.Razor.xml
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/System.Web.Helpers.xml
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/System.Web.WebPages.Deployment.xml
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/System.Web.WebPages.xml
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/System.Web.WebPages.Razor.xml
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/bin/System.Web.Mvc.xml
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/obj/Release/GetAppVersions.csprojAssemblyReference.cache
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/obj/Release/GetAppVersions.csproj.CoreCompileInputs.cache
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/obj/Release/GetAppVersions.csproj.CopyComplete
+/Users/dclancer/Documents/VS Projects/GetAppVersions/GetAppVersions/obj/Release/GetAppVersions.dll
